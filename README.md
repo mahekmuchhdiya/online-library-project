@@ -32,8 +32,5 @@ Project Screenshots:
 7. Payment Page
 <img width="992" height="880" alt="payment png" src="https://github.com/user-attachments/assets/352d5f94-3aeb-499c-b71b-3a9bb5f05543" />
 
-Admin dashboard Page
-<img width="1898" height="935" alt="admin png" src="https://github.com/user-attachments/assets/caebc1dc-a5a1-4166-85c0-57cbf93e0eb8" />
-
 
 
