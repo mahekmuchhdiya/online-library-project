@@ -14,7 +14,10 @@ Database:MySQL
 Project Screenshots:
 
 Premium Plans Page
-![Subscription Page](index.png)
+![Subscription 
+<img width="1337" height="819" alt="subscribe png" src="https://github.com/user-attachments/assets/8f02a6be-e434-423f-b012-65db0d62139b" />
 
-2. Payment Page
+
+2. Payment Page<img width="992" height="880" alt="payment png" src="https://github.com/user-attachments/assets/352d5f94-3aeb-499c-b71b-3a9bb5f05543" />
+
 ![Payment Page](payment.png)
